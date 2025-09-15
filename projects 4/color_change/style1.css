@@ -1,0 +1,45 @@
+*{
+    margin: unset;
+    padding: unset;
+
+}
+body {
+    background-color: white;
+    display: flex;
+    justify-content: center;   /* center horizontally */
+    align-items: center;       /* center vertically */
+    height: 100vh;
+}
+.button {
+    margin-top: 100px;
+    display: inline-block; /* makes them respect width/height */
+    width: 100px;
+    height: 100px;
+    border: solid 1px black;
+    align-items: center;
+    justify-content: center;
+}
+#grey{
+    
+    background-color:grey ;
+    
+}
+#purple{
+    
+    background-color:purple ;
+   
+
+
+}
+#blue{
+    
+    background-color:blue ;
+    
+
+}
+#yellow{
+    
+    background-color:yellow ;
+    
+
+}
